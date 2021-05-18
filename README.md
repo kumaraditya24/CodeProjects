@@ -9,3 +9,5 @@ Here is a list of coding projects
 
 ## my adafruit project 
 [coin toss](https://makecode.com/_TzEU7zFLH2TR)
+
+[wheel of fortune](https://makecode.com/_fAiEiKVC07Ai)
