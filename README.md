@@ -7,4 +7,5 @@ Here is a list of coding projects
 
 [ping pong](https://scratch.mit.edu/projects/434499734)
 
-
+## my adafruit project 
+[coin toss](https://makecode.com/_TzEU7zFLH2TR)
