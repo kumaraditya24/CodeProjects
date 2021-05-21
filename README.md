@@ -17,3 +17,5 @@ Here is a list of coding projects
 [bell](https://makecode.com/_Yt29r79zfgDu)
 
 [voting machine](https://makecode.com/_XgjAoJ22w8vR)
+
+[counter with sound](https://makecode.com/_MqUU8dU9sJW5)
