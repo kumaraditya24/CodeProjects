@@ -15,3 +15,5 @@ Here is a list of coding projects
 [led light](https://makecode.com/_KPXTgiC4mPDz)
 
 [bell](https://makecode.com/_Yt29r79zfgDu)
+
+[voting machine](https://makecode.com/_XgjAoJ22w8vR)
