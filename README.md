@@ -23,3 +23,5 @@ Here is a list of coding projects
 [led light which lights up every day](https://makecode.com/_iycVTJ3CefEP)
 
 [temperature](https://makecode.com/_gsP6MTK8FAPT)
+
+[tern on neopixes if dark](https://makecode.com/_e2x5xEJxJRqK)
