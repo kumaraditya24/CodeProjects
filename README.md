@@ -24,4 +24,4 @@ Here is a list of coding projects
 
 [temperature](https://makecode.com/_gsP6MTK8FAPT)
 
-[tern on neopixes if dark](https://makecode.com/_e2x5xEJxJRqK)
+[turn on neopixes if dark](https://makecode.com/_e2x5xEJxJRqK)
