@@ -21,3 +21,5 @@ Here is a list of coding projects
 [counter with sound](https://makecode.com/_MqUU8dU9sJW5)
 
 [led light which lights up every day](https://makecode.com/_iycVTJ3CefEP)
+
+[temperature](https://makecode.com/_gsP6MTK8FAPT)
