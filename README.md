@@ -25,3 +25,5 @@ Here is a list of coding projects
 [temperature](https://makecode.com/_gsP6MTK8FAPT)
 
 [turn on neopixes if dark](https://makecode.com/_e2x5xEJxJRqK)
+
+[min and max temperature](https://makecode.com/_U72HpJTb65qa)
