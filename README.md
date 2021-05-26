@@ -27,3 +27,7 @@ Here is a list of coding projects
 [turn on neopixes if dark](https://makecode.com/_e2x5xEJxJRqK)
 
 [min and max temperature](https://makecode.com/_U72HpJTb65qa)
+
+[keyboard](https://makecode.com/_6RuPub2xeP0E)
+
+[mouse](https://makecode.com/_6jd6pe54him3)
