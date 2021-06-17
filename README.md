@@ -31,3 +31,5 @@ Here is a list of coding projects
 [keyboard](https://makecode.com/_6RuPub2xeP0E)
 
 [mouse](https://makecode.com/_6jd6pe54him3)
+
+[Happy birthday song(https://makecode.com/_e0XarCieyKV3)
