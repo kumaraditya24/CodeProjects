@@ -32,4 +32,4 @@ Here is a list of coding projects
 
 [mouse](https://makecode.com/_6jd6pe54him3)
 
-[Happy birthday song(https://makecode.com/_e0XarCieyKV3)
+[Happy birthday song](https://makecode.com/_e0XarCieyKV3)
